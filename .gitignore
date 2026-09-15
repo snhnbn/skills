@@ -1,0 +1,7 @@
+# Runtime artifacts (humanize-korean per-run outputs)
+_workspace/
+_workspace_prev/
+
+# Python
+__pycache__/
+*.pyc
